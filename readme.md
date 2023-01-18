@@ -1,3 +1,3 @@
-#Natours UI Landing page
+# Natours UI Landing page
 
 Build using html, CSS and SASS
